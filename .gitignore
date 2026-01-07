@@ -1,0 +1,17 @@
+# MATLAB auto-generated files
+*.asv
+*.m~
+*.slxc
+*.slx.r202*
+*.autosave
+*.prj
+*.mlappinstall
+
+# MATLAB cache and binaries
+codegen/
+slprj/
+*.mex*
+
+# OS junk
+.DS_Store
+Thumbs.db
