@@ -20,7 +20,11 @@ The primary goal is to abstract industrial robot control into a software-level i
 - Designed for extensibility toward real robot communication
 
 ## Demo
+
 ![Forward Kinematics Visualization](forward_kinematics.PNG)
+
+Demo video:
+https://youtu.be/hmcfeVmVcpw
 
 ## Project Status
 Simulation-based implementation.
